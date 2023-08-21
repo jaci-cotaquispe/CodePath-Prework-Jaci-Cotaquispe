@@ -20,21 +20,25 @@ Here's a walkthrough of implemented user stories:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with Kap. 
 
-## App Brainstorming (Step 4)
+## App Brainstorming 
+
+1. Kindle App
+   - Kindle's homepage or "Book Shelf" feature which allows users to view all the books they are in progress of reading. 
+   - Grid-like view 
+2. 
+3. 
+4. 
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+One main challenge I had was understanding the difference between Actions and Incidents. At first, I created an Incident for the Button 
+instead of an Action which made it difficult to add a function to when the button is tapped. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright Jaci Cotaquispe 
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
