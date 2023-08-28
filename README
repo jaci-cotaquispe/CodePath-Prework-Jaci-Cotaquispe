@@ -10,7 +10,7 @@ Time spent: 3 hours spent in total
 
 The following **required** functionality is completed:
 
-- [✓] Users are see a screen with three labels and a button
+- [✓] Users see a screen with three labels and a button
 - [✓] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
@@ -19,7 +19,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap. 
 
 ## App Brainstorming 
@@ -27,14 +26,16 @@ GIF created with Kap.
 1. Kindle App
    - Kindle's homepage or "Book Shelf" feature which allows users to view all the books they are in progress of reading. 
    - Grid-like view 
-2. 
+2. Instagram 
+   - The colored boarder on people's profiles to indicate they have something on their story. 
+   - the navigation bar on the bottom rather than the top 
 3. 
 4. 
 
 ## Notes
 
 One main challenge I had was understanding the difference between Actions and Incidents. At first, I created an Incident for the Button 
-instead of an Action which made it difficult to add a function to when the button is tapped. 
+instead of an Action which made it difficult to add a function when the button is tapped. 
 
 ## License
 
